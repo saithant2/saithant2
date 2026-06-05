@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sai! 👋
 
-<!--
-**saithant2/saithant2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🕵️‍♂️ Aspiring Data Analyst | CS Student @ ELTE
 
-Here are some ideas to get you started:
+I'm a Computer Science student(International) based in Budapest, with a strong passion for turning raw data into meaningful insights. Currently, I am diving deep into the FinTech space, building projects around Data Analysis and Fraud Detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Data & Databases:** SQL, MySQL, Tableau (Learning)
+- **Languages:** C#, C, Python (Soon)
+- **Concepts:** Relational Databases, Window Functions, Data Cleaning
+
+### 🚀 Currently Working On
+- **AI-Powered Fraud Detection Portfolio:** Analyzing real-world Kaggle datasets to uncover financial anomalies using advanced SQL architectures.
+
+### 📫 Let's Connect!
+- 💼 LinkedIn: [www.linkedin.com/in/sai-thant-5a440035b]
+- ⚡ Fun Fact: When I'm not writing complex SQL `JOIN`s, you can find me smashing shuttlecocks on the badminton court or strategizing my next Pokémon Champions battle!## 
