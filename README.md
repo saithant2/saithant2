@@ -14,4 +14,4 @@ I'm a Computer Science student(International) based in Budapest, with a strong p
 
 ### 📫 Let's Connect!
 - 💼 LinkedIn: [www.linkedin.com/in/sai-thant-5a440035b]
-- ⚡ Fun Fact: When I'm not writing complex SQL `JOIN`s, you can find me smashing shuttlecocks on the badminton court or strategizing my next Pokémon Champions battle!## 
+
